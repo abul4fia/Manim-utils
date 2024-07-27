@@ -27,7 +27,7 @@ Allows to create a list of animations that can be "triggered" to run in backgrou
 * [Play animations in given timeline](https://gist.github.com/abul4fia/edda4f8d46f00b88371882cbaa01f2d0). 
 This one has been converted in an official manim plugin, i.e. you can `pip install manim-play-timeline`. The repo for it is [here](https://github.com/abul4fia/manim-play-timeline)
 
-## Helpers for deal with text and code objects
+## Helpers to deal with text and code objects
 
 * [Finding shapes in TeX mobjects](https://gist.github.com/abul4fia/3bbe8e0c1d19a007cad035bb8be90387).
 Generic set of functions to find a particular sequence of glyphs (symbols) in a tex mobject, which can be used to change their appearance, or as part of transforms.
